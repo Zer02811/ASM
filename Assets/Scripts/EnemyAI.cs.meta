@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0ad010cd4a76ac843b87e0a9140d45ac
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - patrolCenter: {instanceID: 0}
+  - chaseAudioClip: {fileID: 8300000, guid: eec37ea82dc6d064e90b90ea2e115221, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
