@@ -1,0 +1,6 @@
+C:\Users\LOQ\ASM\Temp\bin\Debug\Tests.dll
+C:\Users\LOQ\ASM\Temp\bin\Debug\Tests.pdb
+C:\Users\LOQ\ASM\obj\Debug\Tests.csproj.AssemblyReference.cache
+C:\Users\LOQ\ASM\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\ASM\obj\Debug\Tests.dll
+C:\Users\LOQ\ASM\obj\Debug\Tests.pdb

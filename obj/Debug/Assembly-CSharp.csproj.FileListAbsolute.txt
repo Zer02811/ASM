@@ -1,0 +1,6 @@
+C:\Users\LOQ\ASM\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\LOQ\ASM\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\LOQ\ASM\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\LOQ\ASM\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\ASM\obj\Debug\Assembly-CSharp.dll
+C:\Users\LOQ\ASM\obj\Debug\Assembly-CSharp.pdb
